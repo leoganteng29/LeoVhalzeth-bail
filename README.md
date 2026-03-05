@@ -10,7 +10,7 @@
 
   Type: WhatsApp API Library (Baileys Optimized Fork)
   Creator: DinzID
-  Repository: github:dinzid04/DinzBaileys
+  Repository: github:leoganteng29/LeoVhalzeth-bail
 
   RESTRICTIONS & LICENSE:
   - This is an optimized WhatsApp API library built upon Baileys.
@@ -64,7 +64,7 @@ Buka file `package.json` di dalam *project* bot kamu, lalu ubah URL pada bagian 
 **Jika kodemu sebelumnya menggunakan `@whiskeysockets/baileys`:**
 ```json
 "dependencies": {
-  "@whiskeysockets/baileys": "npm:@dinzid04/baileys"
+  "@whiskeysockets/baileys": "npm:@leoganteng29/baileys"
 }
 ```
 
