@@ -7,12 +7,12 @@
         "Bot Whatsapp",
         "DinzID"
     ],
-    "homepage": "https://github.com/leoganteng29/DinzBaileys.git",
+    "homepage": "https://github.com/leoganteng29/LeoVhalzeth-bail.git",
     "repository": {
-        "url": "https://github.com/dinzid04/DinzBaileys.git"
+        "url": "https://github.com/leoganteng29/LeoVhalzeth-bail.git"
     },
     "license": "MIT",
-    "author": "DinzID",
+    "author": "LeoVhalzeth",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
